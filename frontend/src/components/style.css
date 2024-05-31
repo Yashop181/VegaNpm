@@ -1,0 +1,9 @@
+/* src/App.css */
+.App {
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center;    /* Vertical centering */
+   /* Full viewport height */
+    text-align: center;     /* Center text */
+  }
+  
